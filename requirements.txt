@@ -1,7 +1,9 @@
 streamlit
 pandas
 plotly
-google-generativeai
 pypdf
 scikit-learn
 python-dotenv
+groq
+google-genai
+requests
